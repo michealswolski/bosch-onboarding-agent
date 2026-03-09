@@ -1,8 +1,8 @@
 # LLM-Based Onboarding Agent
-> AI-Powered Team Onboarding — Built During Bosch Internship
+> AI-Powered Team Onboarding — Built During Automotive Supplier Internship
 
 ## Overview
-AI-powered onboarding assistant using prompt engineering and LLM integration to streamline cybersecurity team onboarding at Robert Bosch, reducing ramp-up time for new team members.
+AI-powered onboarding assistant using prompt engineering and LLM integration to streamline cybersecurity team onboarding at a Tier 1 automotive supplier, reducing ramp-up time for new team members.
 
 ## What I Built
 - Crafted system prompts optimized for cybersecurity domain knowledge transfer
@@ -28,4 +28,4 @@ AI-powered onboarding assistant using prompt engineering and LLM integration to 
 - Iterative prompt refinement based on user feedback
 
 ---
-*Built as part of my Product Cybersecurity Internship at Robert Bosch (2025)*
+*Built during a Product Cybersecurity Internship at a Tier 1 automotive supplier (2025)*
